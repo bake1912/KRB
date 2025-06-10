@@ -1,0 +1,5 @@
+path: /home/mykola/python/yolo/cp/speed_detection/vehicle_weather_dataset_rescue
+train: images/train
+val: images/val
+nc: 1
+names: ['car']
